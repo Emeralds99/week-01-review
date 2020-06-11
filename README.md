@@ -6,3 +6,7 @@ git remote -v
 
 # question 2 - how many students are or were in the airforce
 2
+
+# question 3 - how many and what parts are in an html document?
+
+There's at least 2, a head and a body, and maybe the doctype is considered a seperate part
