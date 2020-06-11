@@ -16,3 +16,7 @@ There's at least 2, a head and a body, and maybe the doctype is considered a sep
 
 style 
 link
+
+# Question 5 - How many was can you declare a variable?
+
+Var, Const and Let are the ones I know. 3 I think.
