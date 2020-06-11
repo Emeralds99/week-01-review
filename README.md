@@ -10,3 +10,9 @@ git remote -v
 # question 3 - how many and what parts are in an html document?
 
 There's at least 2, a head and a body, and maybe the doctype is considered a seperate part
+
+# question 4 - There are two ways to reference css in the header
+# what are the two tags?
+
+style 
+link
